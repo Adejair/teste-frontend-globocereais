@@ -12,6 +12,8 @@ O objetivo da tarefa é desenvolver uma aplicação que consiga buscar dados de 
 
 `DOB.date` - Data de Nascimento
 
+`password` - Senha
+
 Todos os dados devem ser distribuidos na tela, da forma que foi construido o modelo estrutural.
 
 #### Modelo Estrutural 
