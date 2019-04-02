@@ -1,4 +1,4 @@
-# Teste de Desenvolvimento Web Júnior
+# Teste de Desenvolvimento
 Teste de Desenvolvimento para candidatos a vaga de estágio em desenvolvimento
 
 #### Objetivo
