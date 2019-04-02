@@ -25,7 +25,6 @@ Você poderá utilizar a biblioteca UI de sua preferência para desenvolver a es
 
 * Você deverá obrigatoriamente utilizar o framework [React](https://reactjs.org/) 
 * A **API** a ser consumida se encontra no link [http://jobs-globocereais-com.umbler.net/api/v1/peoples_get](http://jobs-globocereais-com.umbler.net/api/v1/peoples_get)
-* Código deve ser produzido se baseando nas boas práticas de escrita de código (exemplo: [AirBnb Guide Code Style Javascript](https://github.com/airbnb/javascript))
 * Validar erros de input
 
 
@@ -34,10 +33,6 @@ Você poderá utilizar a biblioteca UI de sua preferência para desenvolver a es
 ```javascript 
 {"results":[{"gender":"male","name":{"title":"mr","first":"diego","last":"lemaire"},"location":{"street":"8287 rue andré-gide","city":"brest","state":"mayotte","postcode":81128,"coordinates":{"latitude":"-1.6055","longitude":"-151.4252"},"timezone":{"offset":"-12:00","description":"Eniwetok, Kwajalein"}},"email":"diego.lemaire@example.com","login":{"uuid":"380d63ac-9601-4aac-881c-8936caeb7b7d","username":"bigrabbit578","password":"lorena","salt":"MydfMOWF","md5":"5cec6d6da40bf6976f98e9a5aa751ba0","sha1":"165c0883b29e3bf2701b3b6db5a5494ecd63e5bc","sha256":"a0039f448b5bfc08a4087427dfe8e7e6c4f560c054cf59046b4baadc2c4e51f9"},"dob":{"date":"1976-08-25T22:43:39Z","age":42},"registered":{"date":"2005-11-28T01:21:20Z","age":13},"phone":"04-68-74-74-85","cell":"06-38-42-68-49","id":{"name":"INSEE","value":"1NNaN33586714 75"},"picture":{"large":"https://randomuser.me/api/portraits/men/38.jpg","medium":"https://randomuser.me/api/portraits/med/men/38.jpg","thumbnail":"https://randomuser.me/api/portraits/thumb/men/38.jpg"},"nat":"FR"}],"info":{"seed":"2377537b5c521c9c","results":1,"page":1,"version":"1.2"}}
 ```
-
-
-#### Prazo de Entrega
-A partir da data que lhe foi passada a tarefa, você terá **7** dias para entregar o projeto atráves de um link em um repositório no github.
 
 #### How to run?
 Você deverá criar um arquivo .README no seu repositório do github, com os passos para executar o projeto.
